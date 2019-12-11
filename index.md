@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to a computer class
 
 You can use the [editor on GitHub](https://github.com/Shenhualiang/H0/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
